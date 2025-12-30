@@ -1,0 +1,8 @@
+
+{
+  "name": "VaulRec SaaS",
+  "description": "A modern financial tracker that allows you to log income and expenses using natural voice commands in any language, powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
